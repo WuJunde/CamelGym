@@ -1,2 +1,2 @@
 # CamelGym
-Now the project is transferred to a public account: github.com/theworldofagents/CamelGym
+Now the project is transferred to a public account: [theworldofagents/CamelGym](https://github.com/theworldofagents/CamelGym)
